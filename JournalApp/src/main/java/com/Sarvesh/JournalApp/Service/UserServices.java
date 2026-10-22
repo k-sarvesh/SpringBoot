@@ -10,6 +10,7 @@ import org.bson.types.ObjectId;
 import com.Sarvesh.JournalApp.Entity.User;
 import com.Sarvesh.JournalApp.Repository.UserRepository;
 
+
 @Component 
 public class UserServices {
     
